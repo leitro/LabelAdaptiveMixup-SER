@@ -41,6 +41,4 @@ To make our results comparable to the state-of-the-art works [2, 3, 18], we merg
 
 If you are using the code or benchmarks in your research, please cite our paper:
 
-```
 Lei Kang, Lichao Zhang, Dazhi Jiang. "Learning Robust Self-attention Features for Speech Emotion Recognition with Label-adaptive Mixup", IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023), Rhodes Island, Greece, Jun 2023.
-```
